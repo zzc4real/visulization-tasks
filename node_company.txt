@@ -1,0 +1,30 @@
+Allianz, 139, 10, 80, assurance
+Allianz (Dresdner Bank), na, na, na, bank
+BASF, 84, 6, 61, chemistry
+BMW, 64, 4, 36, automobile
+Bayer, 38, 2, 59, chemistry
+Commerzbank, 40, 3, 20, bank
+Continental, 24, 1, 16, automobile
+Daimler, 145, 6, 85, automobile
+Deutsche Bank, 96, 7, 56, bank
+Deutsche Post, 87, 2, 40, communication
+Dresdner Bank, na, na, na, bank
+E.ON, 94, 10, 126, energy
+Henkel, 17, 1, 19, goods
+IG BCE, na, na, na, union
+IG Metall, na, na, na, union
+Linde, 10, 2, 21, chemistry
+Lufthansa, 33, 2, 11, airline
+MAN, 23, 2, 19, automobile
+Merck, 10, 5, 27, chemistry
+Metro, 79,  1, 28, trade
+Muenchener Rueck, 68, 6, 37, assurance
+Porsche, 10, 6, 30, automobile
+RWE, 56, 4, 68, energy
+SAP, 14, 3, 58, software
+Siemens, 103, 5, 118, technology
+Telekom, 91, 1, 83, communication
+ThyssenKrupp, 73, 3, 28, steel
+VW, 149, 6, 90, automobile
+Vattenfall, 15, 1, 18, energy
+ver.di, na, na, na, union

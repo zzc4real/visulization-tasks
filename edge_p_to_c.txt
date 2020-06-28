@@ -1,0 +1,178 @@
+Claudia Eggert-Lehmann -> Allianz
+Gerhard Cromme -> Allianz
+Paul Achleitner -> Allianz
+Wulf H. Bernotat -> Allianz
+Juergen Strube -> Allianz
+Stefan Krause -> Allianz
+Tessen von Heydebreck -> BASF
+Max Dietrich Kley -> BASF
+Michael Diekmann -> BASF
+Michael Vassiliadis -> BASF
+Juergen Strube -> BASF
+Bertin Eichler -> BMW
+Franz M. Haniel -> BMW
+Juergen Strube -> BMW
+Renate Koecher -> BMW
+Hubert Markl -> BMW
+Joachim Milberg -> BMW
+Stefan Quandt -> BMW
+Ulrich Eckelmann -> BMW
+Wolfgang Mayrhuber -> BMW
+Juergen Weber -> Bayer
+Clemens Boersig -> Bayer
+Klaus Sturany -> Bayer
+Paul Achleitner -> Bayer
+Helmut Panke -> Bayer
+Manfred Schneider -> Bayer
+Ekkehard D. Schulz -> Bayer
+Hubertus Schmoldt -> Bayer
+Hans-Olaf Henkel -> Bayer
+Marcus Schenck -> Commerzbank
+Burckhard Bergmann -> Commerzbank
+Klaus-Peter Mueller -> Commerzbank
+Ulrich Middelmann -> Commerzbank
+Christian Streiff -> Continental
+Bernd W. Voss -> Continental
+Diethart Breipohl -> Continental
+Hubertus von Gruenberg -> Continental
+Michael Frenzel -> Continental
+Hans-Olaf Henkel -> Continental
+Werner Bischoff -> Continental
+Bernhard Walter -> Daimler
+Clemens Boersig -> Daimler
+Thomas Klebe -> Daimler
+Manfred Bischoff -> Daimler
+Manfred Schneider -> Daimler
+Juergen Hambrecht -> Daimler
+Juergen Weber -> Deutsche Bank
+Clemens Boersig -> Deutsche Bank
+Theo Siegert -> Deutsche Bank
+Gerd Herzberg -> Deutsche Bank
+Henning Kagermann -> Deutsche Bank
+Heinrich von Pierer -> Deutsche Bank
+Ulrich Hartmann -> Deutsche Bank
+Andrea Kocsis -> Deutsche Post
+Juergen Weber -> Deutsche Post
+Harry Roels -> Deutsche Post
+Hero Brahms -> Deutsche Post
+Ingrid Matthaeus-Maier -> Deutsche Post
+Wulf von Schimmelmann -> Deutsche Post
+Bernd W. Voss -> Allianz (Dresdner Bank)
+Dietmar Kuhnt -> Allianz (Dresdner Bank)
+Helmut Perlet -> Allianz (Dresdner Bank)
+Bernd Pischetsrieder -> Allianz (Dresdner Bank)
+Olaf Berlien -> Allianz (Dresdner Bank)
+Wolfgang Roeller -> Allianz (Dresdner Bank)
+Hartmut Mehdorn -> Allianz (Dresdner Bank)
+Michael Diekmann -> Allianz (Dresdner Bank)
+Stefan Quandt -> Allianz (Dresdner Bank)
+Wulf H. Bernotat -> E.ON
+Herbert Walter -> E.ON
+Henning Schulte-Noelle -> E.ON
+Erhard Ott -> E.ON
+Hubertus Schmoldt -> E.ON
+Guenter Vogelsang -> E.ON
+Ulrich Lehner -> E.ON
+Sven Bergelin -> E.ON
+Ulrich Hartmann -> E.ON
+Werner Wenning -> E.ON
+Bernhard Walter -> Henkel
+Michael Vassiliadis -> Henkel
+Ulrich Hartmann -> Henkel
+Clemens Boersig -> Linde
+Karl-Hermann Baumann -> Linde
+Manfred Schneider -> Linde
+Klaus-Peter Mueller -> Linde
+Michael Diekmann -> Linde
+Juergen Strube -> Linde
+Juergen Weber -> Lufthansa
+Clemens Boersig -> Lufthansa
+Herbert Walter -> Lufthansa
+Juergen Hambrecht -> Lufthansa
+Klaus G. Schlede -> Lufthansa
+Nicola Leibinger-Kammmueller -> Lufthansa
+Werner Brandt -> Lufthansa
+Wolfgang Roeller -> Lufthansa
+Frank Bsirske -> Lufthansa
+John Murray Allan -> Lufthansa
+Ulrich Hartmann -> Lufthansa
+Heiner Hasford -> MAN
+Thomas Kremer -> MAN
+Rudolf Rupprecht -> MAN
+Ekkehard D. Schulz -> MAN
+Ferdinand K. Piech -> MAN
+Renate Koecher -> MAN
+Joachim Milberg -> MAN
+Stephan Schaller -> MAN
+Theo Siegert -> Merck
+Wilhelm Simson -> Merck
+Bernd Pischetsrieder -> Metro
+Wulf H. Bernotat -> Metro
+Hans-Juergen Schinzler -> Metro
+Franz M. Haniel -> Metro
+Juergen Fitschen -> Metro
+Hans-Juergen Schinzler -> Muenchener Rueck
+Ron Sommer -> Muenchener Rueck
+Bernd Pischetsrieder -> Muenchener Rueck
+Heinrich von Pierer -> Muenchener Rueck
+Hubert Markl -> Muenchener Rueck
+Henning Kagermann -> Muenchener Rueck
+Karel Van Miert -> Muenchener Rueck
+Ulrich Hartmann -> Muenchener Rueck
+Wolfgang Mayrhuber -> Muenchener Rueck
+Wolfgang Porsche -> Porsche
+Ferdinand K. Piech -> Porsche
+Ulrich Lehner -> Porsche
+Carl-Ludwig von Boehm-Bezing -> RWE
+Paul Achleitner -> RWE
+Thomas R. Fischer -> RWE
+Manfred Schneider -> RWE
+Ekkehard D. Schulz -> RWE
+Frank Bsirske -> RWE
+Karel Van Miert -> RWE
+Sven Bergelin -> RWE
+Werner Bischoff -> RWE
+Erhard Schipporeit -> SAP
+Hartmut Mehdorn -> SAP
+Hasso Plattner -> SAP
+Joachim Milberg -> SAP
+Klaus Wucherer -> SAP
+Berthold Huber -> Siemens
+Gerhard Cromme -> Siemens
+Josef Ackermann -> Siemens
+Nicola Leibinger-Kammmueller -> Siemens
+Hans Michael Gaul -> Siemens
+Hakan Samuelsson -> Siemens
+Michael Diekmann -> Siemens
+Klaus Wucherer -> Siemens
+Bernhard Walter -> Telekom
+Hubertus von Gruenberg -> Telekom
+Ingrid Matthaeus-Maier -> Telekom
+Ulrich Lehner -> Telekom
+Wolfgang Reitzle -> Telekom
+Wulf von Schimmelmann -> Telekom
+Bertin Eichler -> ThyssenKrupp
+Christian Streiff -> ThyssenKrupp
+Gerhard Cromme -> ThyssenKrupp
+Heinrich von Pierer -> ThyssenKrupp
+Heinz Kriwet -> ThyssenKrupp
+Henning Schulte-Noelle -> ThyssenKrupp
+Martin Kohlhaussen -> ThyssenKrupp
+Ekkehard D. Schulz -> ThyssenKrupp
+Guenter Vogelsang -> ThyssenKrupp
+Ulrich Lehner -> ThyssenKrupp
+Berthold Beitz -> ThyssenKrupp
+Juergen Hubbert -> ThyssenKrupp
+Ulrich Eckelmann -> ThyssenKrupp
+Juergen Grossmann -> VW
+Wolfgang Porsche -> VW
+Hans Michael Gaul -> VW
+Michael Frenzel -> VW
+Wendelin Wiedeking -> VW
+Holger P. Haerter -> VW
+Ferdinand K. Piech -> VW
+Juergen Peters -> VW
+Volker Jung -> Vattenfall
+Otto Majewski -> Vattenfall
+Gerd Herzberg -> Vattenfall
+Ulrich Freese -> Vattenfall

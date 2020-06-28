@@ -1,0 +1,91 @@
+Allianz -b-> Diethart Breipohl
+Allianz -a-> Helmut Perlet
+Allianz -b-> Henning Schulte-Noelle
+Allianz -a-> Herbert Walter
+Allianz -a-> Paul Achleitner
+Allianz -a-> Michael Diekmann
+BASF -a-> Juergen Hambrecht
+BASF -b-> Max Dietrich Kley
+BASF -b-> Juergen Strube
+BMW -b-> Helmut Panke
+BMW -b-> Joachim Milberg
+BMW -a-> Stefan Krause
+Bayer -b-> Manfred Schneider
+Bayer -a-> Werner Wenning
+Commerzbank -b-> Martin Kohlhaussen
+Commerzbank -a-> Klaus-Peter Mueller
+Continental -b-> Hubertus von Gruenberg
+Daimler -b-> Manfred Bischoff
+Daimler -b-> Juergen Hubbert
+Deutsche Bank -b-> Tessen von Heydebreck
+Deutsche Bank -a-> Carl-Ludwig von Boehm-Bezing
+Deutsche Bank -b-> Clemens Boersig
+Deutsche Bank -a-> Josef Ackermann
+Deutsche Bank -b-> Thomas R. Fischer
+Deutsche Bank -a-> Juergen Fitschen
+Deutsche Post -a-> John Murray Allan
+Deutsche Post -b-> Wulf von Schimmelmann
+Allianz (Dresdner Bank) -b-> Bernhard Walter
+Allianz (Dresdner Bank) -a-> Claudia Eggert-Lehmann
+Allianz (Dresdner Bank) -b-> Bernd W. Voss
+Allianz (Dresdner Bank) -a-> Herbert Walter
+Allianz (Dresdner Bank) -a-> Wolfgang Roeller
+E.ON -b-> Erhard Schipporeit
+E.ON -a-> Marcus Schenck
+E.ON -b-> Otto Majewski
+E.ON -a-> Wulf H. Bernotat
+E.ON -a-> Hans Michael Gaul
+E.ON -b-> Burckhard Bergmann
+E.ON -b-> Wilhelm Simson
+E.ON -b-> Ulrich Hartmann
+Henkel -b-> Ulrich Lehner
+IG BCE -a-> Ulrich Freese
+IG BCE -a-> Hubertus Schmoldt
+IG BCE -a-> Michael Vassiliadis
+IG BCE -a-> Werner Bischoff
+IG Metall -a-> Berthold Huber
+IG Metall -a-> Bertin Eichler
+IG Metall -a-> Thomas Klebe
+IG Metall -a-> Juergen Peters
+IG Metall -a-> Ulrich Eckelmann
+Linde -b-> Hero Brahms
+Linde -a-> Wolfgang Reitzle
+Lufthansa -b-> Juergen Weber
+Lufthansa -b-> Klaus G. Schlede
+Lufthansa -a-> Wolfgang Mayrhuber
+MAN -b-> Rudolf Rupprecht
+MAN -a-> Hakan Samuelsson
+Muenchener Rueck -b-> Heiner Hasford
+Muenchener Rueck -b-> Hans-Juergen Schinzler
+Porsche -a-> Wolfgang Porsche
+Porsche -a-> Wendelin Wiedeking
+Porsche -a-> Holger P. Haerter
+RWE -a-> Dietmar Kuhnt
+RWE -a-> Juergen Grossmann
+RWE -a-> Klaus Sturany
+RWE -b-> Harry Roels
+SAP -a-> Werner Brandt
+SAP -a-> Henning Kagermann
+SAP -b-> Hasso Plattner
+Siemens -b-> Volker Jung
+Siemens -b-> Heinrich von Pierer
+Siemens -b-> Karl-Hermann Baumann
+Siemens -b-> Heinrich von Pierer
+Siemens -a-> Klaus Wucherer
+Telekom -b-> Ron Sommer
+ThyssenKrupp -b-> Gerhard Cromme
+ThyssenKrupp -b-> Heinz Kriwet
+ThyssenKrupp -a-> Olaf Berlien
+ThyssenKrupp -a-> Ekkehard D. Schulz
+ThyssenKrupp -b-> Guenter Vogelsang
+ThyssenKrupp -b-> Berthold Beitz
+ThyssenKrupp -a-> Ulrich Middelmann
+ThyssenKrupp -a-> Thomas Kremer
+VW -b-> Bernd Pischetsrieder
+VW -b-> Ferdinand K. Piech
+VW -a-> Stephan Schaller
+ver.di -a-> Andrea Kocsis
+ver.di -a-> Erhard Ott
+ver.di -a-> Frank Bsirske
+ver.di -a-> Gerd Herzberg
+ver.di -a-> Sven Bergelin
